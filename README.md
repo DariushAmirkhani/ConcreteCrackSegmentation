@@ -1,4 +1,4 @@
-# ConcreteCrackSegmentation Dataset
+# Concrete Crack Segmentation
 This repository contains sample images and masks for our concrete crack detection and segmentation framework.  
 The full dataset will be uploaded after the paper is published.
 
