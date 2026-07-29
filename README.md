@@ -6,6 +6,9 @@
 > Dariush Amirkhani, Mohand Saïd Allili, and Jean-François Lapointe
 > *IEEE Transactions on Automation Science and Engineering, Vol. 22, 2025*
 
+### Paper Preview
+![First Page of Paper](./paper_first_page.jpg)
+
 ## 📖 Overview
 CrackSight is an end-to-end deep learning model designed for precise crack segmentation across varying observational ranges and extremely complex backgrounds. Accurate crack segmentation in concrete transportation infrastructures is critical for ensuring structural integrity and facilitating timely maintenance interventions.
 
